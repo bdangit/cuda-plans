@@ -1,0 +1,14 @@
+[cuda]
+plan_path = "cuda"
+[cuda-libs]
+plan_path = "cuda-libs"
+paths = [
+  "cuda/*",
+]
+[gcc8]
+plan_path = "gcc8"
+[gcc8-libs]
+plan_path = "gcc8-libs"
+paths = [
+  "gcc8/*",
+]
